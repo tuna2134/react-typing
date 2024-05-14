@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "readme": "README.md",
   "devDependencies": {
     "@types/react": "^18.3.2",
     "jsr": "^0.12.4",
