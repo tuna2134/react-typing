@@ -13,7 +13,7 @@
   "devDependencies": {
     "@types/react": "^18.3.2",
     "jsr": "^0.12.4",
-    "typescript": "^5.4.5"
+    "typescript": "^6.0.0"
   },
   "dependencies": {
     "react": "^18.3.1"
